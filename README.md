@@ -1,5 +1,8 @@
-## Hi there 👋
+## Välkommen till E-arkiv Sjuhärads samlingsplats👋
 
+- Här finns hjälpmedel för att hantera data som tex. OCR-Scanning av pdf dokument. Skapa metadata.
+- Varje projekt är unikt och har ett eget repository.
+- Arbetet är öppet för alla inblandade att använda och bidra med kunnskap.
 <!--
 **E-arkiv-Ulricehamn/E-arkiv-Ulricehamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
